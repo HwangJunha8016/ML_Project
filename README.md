@@ -5,6 +5,8 @@ ML_Project
 
  - 환경: `JupyterNotebook`, `Python`
 
+ - 라이브러리: `Pandas`, `Numpy`,`scikit-learn`, `matplot`, `seaborn`
+
  - 목표: `Pandas` 라이브러리를 사용해 `Dataset`을 분석해보고 이를 `ML`에 적용시켜보기.   
    - `Pandas` 라이브러리와 `ML`의 기본적인 기능을 익힌다.
    - `Dataset`을 이용해 `ML`을 어떻게 활용할 수 있는지를 학습한다.
